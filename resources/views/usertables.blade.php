@@ -15,7 +15,7 @@
     <th>Username</th>
     <th>Email</th>
     <th>Mobile No</th>
-    <th></th>
+    <th>password</th>
     <th>Action</th>
   </tr>
   <tbody>
